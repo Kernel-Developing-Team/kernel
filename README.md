@@ -32,4 +32,4 @@ If you want to do something to the kernel, Please read the license first :), als
 
 ## LICENSE
 
-This project is under license of MIT, GNU/GPL and BSD Licenses. Please check it out at the LICENSE.md. Thank you :)
+This project is under license of GNU/GPLv3. Please check it out at the LICENSE Thank you :)

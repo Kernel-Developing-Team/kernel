@@ -10,6 +10,7 @@ The following programming languages that XaOS kernel are supported:
 * C                    
 * C++
 * ASM
+* Linker Script(LD)
 
 ### Dependencies
 

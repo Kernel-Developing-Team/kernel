@@ -1,0 +1,19 @@
+Copyright (c) 2014 KDTeam
+
+Project KDTOS Kernel.
+
+
+Before you make your module you need to learn C, C++, Assembly and more languages that are related to computer courses.
+
+DO NOT REMOVE THIS OR XaOS WILL NOT BUILD!
+
+
+
+What is the meaning of externs?
+It means that, dependencies of XaOS kernel to make the kernel work
+but the creator supports it and fixing it for the kernel.
+
+What is the meaning of interns?
+It means that it is the default files of XaOS kernel.
+
+Thank you for seeking this :) Bye now :)

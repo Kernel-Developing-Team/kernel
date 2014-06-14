@@ -56,8 +56,7 @@ void main()
     irq_install();
     init_video();
     timer_install();
-    KeyboardInstallA();
-    KeyboardInstallB();
+    keyboard_install();
 
     __asm__ __volatile__ ("sti");
 
